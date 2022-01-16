@@ -4,6 +4,7 @@ A simple code to process images using canny edge contrast detection. Image proce
 
 
 ![normal_0](https://user-images.githubusercontent.com/63404097/149631438-8ee585fc-4da4-4cda-85e3-fe5b36bc443d.jpg)
+
 Original image
 
 
@@ -19,5 +20,6 @@ Original image
 
 
 ![bacteria_0](https://user-images.githubusercontent.com/63404097/149631435-76998b42-28db-4e8c-96cf-cbec54b29d58.jpg)
+
 CECED image
 
